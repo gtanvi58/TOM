@@ -1,2 +1,2 @@
 # TOM
-Implemented a distributed system using the Totally Ordered Multicast protocol for message synchronization
+A consistent distributed system maintaining Total Order between database operations using Lamport Clocks.
